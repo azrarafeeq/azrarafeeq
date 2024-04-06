@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <h3 align="left"> Other Tools:</h3>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<br> 
+<br> <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
